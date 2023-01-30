@@ -8,3 +8,4 @@ matplotlib==3.6.3
 pillow==9.4.0
 pyparsing==3.0.9
 seaborn==0.12.2
+bokeh==3.0.3
